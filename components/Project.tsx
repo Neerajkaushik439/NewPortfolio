@@ -16,7 +16,7 @@ const projects = [
     description: "A fun memory challenge based on recalling color sequences",
     link: "https://simon-game-one-blush.vercel.app/",
   },
- ,
+ 
 
 ];
 
