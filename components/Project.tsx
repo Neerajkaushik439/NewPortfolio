@@ -12,6 +12,11 @@ const projects = [
     link: "https://github.com/Neerajkaushik439/Text-Expander-Extension",
   },
   {
+    title: "News App",
+    description: "Real-time news app delivering latest headlines via fast API calls",
+    link: "https://news-lilac-psi.vercel.app/",
+  },
+  {
     title: "Simon Game",
     description: "A fun memory challenge based on recalling color sequences",
     link: "https://simon-game-one-blush.vercel.app/",
@@ -25,7 +30,7 @@ const Projects = () => {
     <section id="projects" className="bg-gradient-to-r from-gray-900 to-black px-6 py-20">
       <div className="mx-auto max-w-6xl text-center">
         <h2 className="mb-12 font-bold text-white text-4xl">Projects</h2>
-        <div className="gap-8 grid md:grid-cols-3">
+        <div className="gap-8 grid md:grid-cols-2">
           {projects.map((proj, i) => (
             <div
               key={i}
