@@ -7,13 +7,13 @@ const About = () => {
         <h2 className="mb-12 font-bold text-white text-4xl">About Me</h2>
         <div className="bg-white/5 shadow-lg backdrop-blur-md p-6 border border-gray-700 rounded-xl">
           <p className="text-gray-300 text-lg leading-relaxed tracking-wide">
-          I&rsquo;m Neeraj Kaushik — a developer who thrives at the intersection of sleek web experiences and solid backend logic and web development. With a strong grip on the MERN stack and hands-on experience in React , I love building applications that not only look great but work seamlessly under the hood.
+          I&rsquo;m Neeraj Kaushik, a developer who thrives at the intersection of sleek web experiences and solid backend logic and web development. With a strong grip on the MERN stack and hands-on experience in React , I love building applications that not only look great but work seamlessly under the hood.
 
 
           </p>
           <div className="space-y-6 mt-10 text-gray-300 text-lg leading-relaxed tracking-wide">
             <p>
-            I&rsquo;ve solved 200+ LeetCode problems, sharpened my skills in Node.js, Express, MongoDB, and confidently use JavaScript, and C++ when needed. Whether I&rsquo;m designing APIs, optimizing queries, or building smooth cross-platform UIs, I bring a problem-solving mindset to every project.
+            I&rsquo;ve solved 500+ LeetCode problems, sharpened my skills in Node.js, Express, MongoDB, and confidently use JavaScript, and C++ when needed. Whether I&rsquo;m designing APIs, optimizing queries, or building smooth cross-platform UIs, I bring a problem-solving mindset to every project.
 
             </p>
             <p>
