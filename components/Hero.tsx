@@ -9,8 +9,8 @@ const Hero = () => {
             Hey, I&rsquo;m <span className="text-blue-500">Neeraj</span>
           </h1>
           <p className="text-gray-400 text-lg md:text-xl">
-          a web developer who loves turning ideas into fast, functional, and beautiful web experiences.
-          I specialize in full-stack development with a focus on the MERN stack, crafting seamless frontends with React and building scalable backends with Node.js and MongoDB. With over 200 LeetCode problems solved and a solid foundation in JavaScript, and C++, I bring both logic and creativity to every project. From quick prototypes to production-ready apps, I enjoy building tools that make the web smarter
+          A web developer who loves turning ideas into fast, functional, and beautiful web experiences.
+          I specialize in full-stack development with a focus on the MERN stack, crafting seamless frontends with React and building scalable backends with Node.js and MongoDB. With over 500 LeetCode problems solved and a solid foundation in java, I bring both logic and creativity to every project. From quick prototypes to production-ready apps, I enjoy building tools that make the web smarter
           </p>
           <div className="flex justify-center md:justify-start gap-4">
             <a

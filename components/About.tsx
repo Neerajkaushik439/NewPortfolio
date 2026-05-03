@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <div className="space-y-6 mt-10 text-gray-300 text-lg leading-relaxed tracking-wide">
             <p>
-            I&rsquo;ve solved 500+ LeetCode problems, sharpened my skills in Node.js, Express, MongoDB, and confidently use JavaScript, and C++ when needed. Whether I&rsquo;m designing APIs, optimizing queries, or building smooth cross-platform UIs, I bring a problem-solving mindset to every project.
+            I&rsquo;ve solved 500+ LeetCode problems, sharpened my skills in Node.js, Express, MongoDB, and confidently use JavaScript, and java when needed. Whether I&rsquo;m designing APIs, optimizing queries, or building smooth cross-platform UIs, I bring a problem-solving mindset to every project.
 
             </p>
             <p>
