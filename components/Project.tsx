@@ -2,9 +2,14 @@ import React from "react";
 
 const projects = [
   {
+    title: "SplitsBuddy",
+    description: "A MERN-based expense-sharing app with Google OAuth, real-time balance tracking, and optimized settle-up logic to minimize transactions",
+    link: "https://github.com/Neerajkaushik439/SplitsBuddy",
+  },
+  {
     title: "WanderLust",
-    description: "A full-stack MERN application developed as a vacation rental platform",
-    link: "https://wanderlust-olh9.onrender.com/listings",
+    description: "A MERN-based property listing app with authentication, Cloudinary image uploads, and Mapbox-powered location search",
+    link: "https://github.com/Neerajkaushik439/WanderLust",
   },
   {
     title: "Text Expander Extension",
@@ -14,13 +19,9 @@ const projects = [
   {
     title: "News App",
     description: "Real-time news app delivering latest headlines via fast API calls",
-    link: "https://news-lilac-psi.vercel.app/",
+    link: "https://github.com/Neerajkaushik439/News-App",
   },
-  {
-    title: "Simon Game",
-    description: "A fun memory challenge based on recalling color sequences",
-    link: "https://simon-game-one-blush.vercel.app/",
-  },
+ 
  
 
 ];
@@ -44,7 +45,7 @@ const Projects = () => {
                 rel="noopener noreferrer"
                 className="inline-block mt-2 font-medium text-teal-400 hover:underline"
               >
-                Try it here →
+                View on GitHub →
               </a>
             </div>
           ))}

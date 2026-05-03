@@ -2,25 +2,21 @@ import React from "react";
 import Link from "next/link";
 
 const experiences = [
+  {
+    title: "Software Developer Intern",
+    org: "Xelron",
+    date: "March 2026 - Present",
+    desc: "Built and optimized scalable full-stack features using the MERN stack, improving API performance and delivering production-ready user experiences",
+  },
 
   {
     title: "Member @GDSC at IIIT Sonepat",
     org: "Google Developer Student Club",
     date: "Dec 2024 – present",
-    desc: "Contributed to various projects and events as a member of GDSC.",
+    desc: "Active member at IIIT Sonepat’s developer community, collaborating on projects and participating in hackathons to strengthen full-stack development skills.",
   },
-  {
-    title: "SIH 2024 Team leader",
-    org: "Smart India Hackathon",
-    date: "Apr 2024",
-    desc: "Lead a team for the Smart India Hackathon 2024.",
-  },
-  {
-    title: " Hackzilla 2025",
-    org: "IIIT Sonepat",
-    date: "May 2025",
-    desc: "Achieved top 30 position in Hackzilla 2025.",
-  },
+  
+  
  
 ];
 
